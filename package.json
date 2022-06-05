@@ -1,0 +1,10 @@
+{
+  "name": "15x3",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiraginoyuki/15x3.git"
+  },
+  "license": "MIT",
+  "packageManager": "pnpm@7.1.7"
+}
